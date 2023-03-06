@@ -1,3 +1,5 @@
+//Herdi Andra Fata Rizqi / 123210005
+
 import java.util.Scanner;
 
 public class Main {
